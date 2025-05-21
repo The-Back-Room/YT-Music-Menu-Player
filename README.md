@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="200" height="200" src="icon.png" />
+  <img width="200" height="200" src="/Icon.png" />
 </p>
 
 <h1 align="center">YT Music Menu Player</h1>
 
 <p align="center">
-<img width="500" alt="preview" src="preview.png" />
+<img width="500" alt="preview" src="/preview.png" />
 </p>
 
 I got tired of having a browser tab open just to play SiriusXM. So I created this little menu bar [Electron](https://www.electronjs.org/) application that wraps the web player. It also displays the current artist and song title in the menu bar. Enjoy! 🎶
