@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 <p align="center">
   <img width="200" height="200" src="/Icon.png" />
 </p>
@@ -8,13 +12,18 @@
 <img width="500" alt="preview" src="/preview.png" />
 </p>
 
+## Supported OS
+- Windows
+- Linux
+- macOS
 
-**To build for a your platform:**
-1. Download this repo.
-2. Open the folder in your command line or Terminal.
-3. Run `yarn install`.
-4. Then run `yarn package`.
-5. Check the `out` folder for the packaged application to run.
+## Installation
+
+- Download this repo.
+- Open the folder in your command line or Terminal.
+- Run `yarn install`.
+- Then run `yarn package`.
+- Check the `out` folder for the packaged application to run.
 
 ---
 
