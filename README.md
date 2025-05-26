@@ -23,7 +23,7 @@
 
 ## Installation
 
-- Download this repo.
+- Download this repo by clicking [here][DOWNLOAD].
 - Open the folder in your command line or Terminal.
 - Run `yarn install`.
 - Then run `yarn package`.
@@ -38,4 +38,5 @@
 [STARS]: https://img.shields.io/github/stars/the-back-room/yt-music-menu-player
 [FORKS]: https://img.shields.io/github/forks/the-back-room/YT-MUSIC-MENU-PLAYER
 [WATCHERS]: https://img.shields.io/github/watchers/the-back-room/yt-music-menu-player
+[DOWNLOAD]: https://github.com/The-Back-Room/YT-Music-Menu-Player/archive/refs/heads/main.zip
 
