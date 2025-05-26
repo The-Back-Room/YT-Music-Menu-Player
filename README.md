@@ -21,13 +21,19 @@
 - Linux
 - macOS
 
+## Requirements
+- NodeJS
+- Yarn
+
 ## Installation
 
-- Download this repo by clicking [here][DOWNLOAD].
-- Open the folder in your command line or Terminal.
-- Run `yarn install`.
-- Then run `yarn package`.
-- Check the `out` folder for the packaged application to run.
+1. Download and install the latest LTS version of [NodeJS][NODEJS]
+2. Once NodeJS is finished installing, open Command Prompt or Terminal and run `npm install -g yarn`
+3. Download this repo by clicking [here][DOWNLOAD].
+4. Open the folder in Command Prompt or Terminal.
+5. Run `yarn install`.
+6. Then run `yarn package`.
+7. Check the `out` folder for the packaged application to run.
 
 ---
 
@@ -38,5 +44,6 @@
 [STARS]: https://img.shields.io/github/stars/the-back-room/yt-music-menu-player
 [FORKS]: https://img.shields.io/github/forks/the-back-room/YT-MUSIC-MENU-PLAYER
 [WATCHERS]: https://img.shields.io/github/watchers/the-back-room/yt-music-menu-player
+[NODEJS]: https://nodejs.org/en/download
 [DOWNLOAD]: https://github.com/The-Back-Room/YT-Music-Menu-Player/archive/refs/heads/main.zip
 
