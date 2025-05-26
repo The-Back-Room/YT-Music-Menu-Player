@@ -31,8 +31,8 @@
 2. Once NodeJS is finished installing, open Command Prompt or Terminal and run `npm install -g yarn`
 3. Download this repo by clicking [here][DOWNLOAD].
 4. Open the folder in Command Prompt or Terminal.
-5. Run `yarn install && yarn package`.
-6. Check the `out` folder for the packaged application to run.
+5. Type `yarn install && yarn package` and press enter.
+6. Wait for the script to finish, then check the `out` folder for the packaged YT Music Menu Player app to run.
 
 ---
 
