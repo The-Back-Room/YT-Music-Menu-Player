@@ -31,9 +31,8 @@
 2. Once NodeJS is finished installing, open Command Prompt or Terminal and run `npm install -g yarn`
 3. Download this repo by clicking [here][DOWNLOAD].
 4. Open the folder in Command Prompt or Terminal.
-5. Run `yarn install`.
-6. Then run `yarn package`.
-7. Check the `out` folder for the packaged application to run.
+5. Run `yarn install && yarn package`.
+6. Check the `out` folder for the packaged application to run.
 
 ---
 
